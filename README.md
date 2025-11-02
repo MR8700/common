@@ -8,7 +8,7 @@ Chaque étudiant doit ajouter **son nom et l’URL vers son CV en ligne** (PDF, 
 | Nom | Lien vers le CV |
 |-----|------------------|
 | Boukary DIALLO | [CV Boukary DIALLO ](https://www.boukary.dev) |
-| ... | ... |
+| Yombissé FANDIE |[CV Yombissé FANDIE ](https://github.com/yombisse/common.git) |
 
 ## 🧭 Instructions
 
