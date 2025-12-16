@@ -11,10 +11,11 @@ Chaque étudiant doit ajouter **son nom et l’URL vers son CV en ligne** (PDF, 
 | Augsutin Maré MILLOGO | [CV Augustin Maré MILLOGO ](https://cv-millogo.vercel.app/) |
 | CLOTHER NABA | [CV Naba P Clother](https://letsar04.github.io/CV-CLOTHER/)|
 | Carelle NAGANDA | [CV Carelle NAGANDA ](https://prumumine.github.io/Cv/) |
+| FANDIE YOMBISE | [CV de FANDIE Yombissé" ](https://github.com/yombisse/common.git/)|
+
 
 
 ## 🧭 Instructions
-
 1. Forkez ce dépôt.
 2. Ajoutez votre nom et le lien vers votre CV dans le tableau ci-dessus.
 3. Faites une pull request.
