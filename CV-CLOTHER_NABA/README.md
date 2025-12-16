@@ -9,9 +9,7 @@ Chaque étudiant doit ajouter **son nom et l’URL vers son CV en ligne** (PDF, 
 |-----|------------------|
 | Boukary DIALLO | [CV Boukary DIALLO ](https://www.boukary.dev) |
 | Augsutin Maré MILLOGO | [CV Augustin Maré MILLOGO ](https://cv-millogo.vercel.app/) |
-| CLOTHER NABA | [CV Naba P Clother](https://letsar04.github.io/CV-CLOTHER/)|
-| Carelle NAGANDA | [CV Carelle NAGANDA ](https://prumumine.github.io/Cv/) |
-
+| ... | ... |
 
 ## 🧭 Instructions
 
