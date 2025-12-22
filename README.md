@@ -12,7 +12,7 @@ Chaque étudiant doit ajouter **son nom et l’URL vers son CV en ligne** (PDF, 
 | CLOTHER NABA | [CV Naba P Clother](https://letsar04.github.io/CV-CLOTHER/)|
 | Carelle NAGANDA | [CV Carelle NAGANDA ](https://prumumine.github.io/Cv/) |
 | FANDIE YOMBISE | [CV de FANDIE Yombissé" ](https://github.com/yombisse/common.git/)|
-
+| TAPSOBA ASNATH GUESWENDE | [CV de TAPSOBA ASNATH GUESWENDE" ]( https://asnath99.github.io/ASNATH-CV/)|
 
 
 ## 🧭 Instructions
