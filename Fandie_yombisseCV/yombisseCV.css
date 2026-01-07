@@ -76,15 +76,62 @@ h1 {
   list-style: none;
 }
 
-/* Cordonnées avec retour à la ligne si nécessaire */
-.cordonnees,
-.competences,
-.etat-civil{
-  display: flex;
-  flex-wrap: wrap; /* permet au contenu de revenir à la ligne */
-
+/* Chaque ligne des coordonnées */
+.cordonnees span,
+.cordonnees img {
+    vertical-align: middle; /* aligne texte et image sur la même ligne */
 }
 
+/* Conteneur pour chaque contact */
+.cordonnees div {
+    display: flex;          /* alignement horizontal */
+    align-items: center;    /* centre verticalement l'icône et le texte */
+    margin-bottom: 5px;     /* espace entre les lignes */
+}
+
+.cordonnees img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;      /* espace entre l'icône et le texte */
+}
+
+.cordonnees span {
+    padding-left: 0;        /* plus besoin de padding % */
+    font-size: 0.9rem;
+}
+
+
+.language h3 {
+    margin-bottom: 10px;
+    color: white;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.skill span {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 15px;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background-color: rgb(7, 83, 64);
+    width: 0; /* animée via transition */
+    border-radius: 10px;
+    transition: width 1s ease-in-out;
+}
 
 /* Photo de profil */
 .profile img {

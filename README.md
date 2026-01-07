@@ -16,7 +16,6 @@ Chaque étudiant doit ajouter **son nom et l’URL vers son CV en ligne** (PDF, 
 
 
 ## 🧭 Instructions
-
 1. Forkez ce dépôt.
 2. Ajoutez votre nom et le lien vers votre CV dans le tableau ci-dessus.
 3. Faites une pull request.
